@@ -1,0 +1,14 @@
+# beijing geometry parameters
+beijingAngleNum: 72
+beijingPlanes: 21
+beijingSubDetectorSize:
+  - 80
+  - 144
+beijingVolumeSize:
+  - 256
+  - 256
+  - 64
+beijingParameterRoot: angle_distribution_mat/projVecReal_3angles_1intervals_1.7783.mat
+beijingSID: 708
+beijingSDD: 1143
+sampleInterval: 1.7783 
